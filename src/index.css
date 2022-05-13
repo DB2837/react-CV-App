@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@0;1&family=Kanit:wght@200;400&family=Oswald:wght@300;400&family=Teko:wght@300&display=swap");
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Kanit", sans-serif;
+  background-color: rgb(226, 226, 226);
+  font-size: 1.2rem;
+  letter-spacing: 0.4px;
+}
