@@ -1,0 +1,13 @@
+.educationItem {
+  display: flex;
+}
+
+.educationItem > * {
+  padding: 10px;
+  /* margin: 5px; */
+  width: 35%;
+}
+
+.educationItem__university {
+  width: 65%;
+}

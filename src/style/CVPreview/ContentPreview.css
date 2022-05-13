@@ -1,0 +1,5 @@
+.content-preview {
+  grid-column: 1 / 2;
+  grid-row: 2 / 3;
+  padding: 10px;
+}

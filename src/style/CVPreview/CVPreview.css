@@ -1,0 +1,25 @@
+.container__cv-preview {
+  margin-left: 5px;
+  max-width: 900px;
+  width: 100%;
+}
+
+.cv-preview {
+  min-height: 1050px;
+  max-height: 1350px;
+  background-color: white;
+  border: 2px solid black;
+  width: 100%;
+  font-size: 1.2rem;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 100px 1fr;
+  margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 1400px) {
+  .container__cv-preview {
+    width: 60%;
+    max-width: 1000px;
+  }
+}
